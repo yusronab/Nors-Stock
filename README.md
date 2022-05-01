@@ -10,7 +10,7 @@
 - [x] Menghapus data
 - [x] Mencari data
 
-<p>Website : <a href="http://http://nor-stock.herokuapp.com" target="_blank">Nors Stock</a></p>
+<p>Website : <a href="http://nor-stock.herokuapp.com" target="_blank">Nors Stock</a></p>
 
 <img width="500" src="/img/banner.png">
 
